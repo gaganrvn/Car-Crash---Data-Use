@@ -1,0 +1,30 @@
+The danger of Car Crashes in the hubs of states
+========================================================
+author: 
+date: 
+autosize: true
+
+First Slide
+========================================================
+
+Car crashes claim the lives of hundreds of thousands of people each year. With the correct data, we could analyze discernable patterns such as:
+
+- Where they happen most often
+- Why they happen (Bad driving or a mistake in technology)
+- When they happen
+
+Slide With Code
+========================================================
+
+```{r}
+summary("CarCrash2017.csv")
+str("CarCrash2017.csv") 
+head("CarCrash2017.csv")
+                 
+```
+
+
+Slide With Info
+========================================================
+
+This interactive graph serves to provide a simple way to notice large clusters of car crashes at a population, allowing the local legislation of hubs at cities to provide some safety measures.
